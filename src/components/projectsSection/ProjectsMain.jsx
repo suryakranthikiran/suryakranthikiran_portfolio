@@ -8,14 +8,14 @@ const projects = [
     name: "TechAlliance",
     year: "2025",
     align: "right",
-    image: "/public/images/website-img-1.jpg",
+    image: "/images/website-img-1.jpg",
     link: "https://github.com/suryakranthikiran/devTinder-web",
   },
   {
     name: "CineTix",
     year: "2025",
     align: "left",
-    image: "/public/images/website-img-3.jpg",
+    image: "/images/website-img-3.jpg",
     link: "https://github.com/suryakranthikiran/CineTix",
   },
 ];
