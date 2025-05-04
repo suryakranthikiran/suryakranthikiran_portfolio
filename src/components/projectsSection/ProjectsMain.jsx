@@ -9,7 +9,7 @@ const projects = [
     year: "2025",
     align: "right",
     image: "/images/website-img-1.jpg",
-    link: "https://github.com/suryakranthikiran/devTinder-web",
+    link: "https://github.com/suryakranthikiran/TechAlliance_project",
   },
   {
     name: "CineTix",
@@ -17,6 +17,13 @@ const projects = [
     align: "left",
     image: "/images/website-img-3.jpg",
     link: "https://github.com/suryakranthikiran/CineTix",
+  },
+  {
+    name: "Netflicks AI",
+    year: "2025",
+    align: "right",
+    image: "/images/website-img-3.jpg",
+    link: "https://github.com/suryakranthikiran/NextFlicks-AI-",
   },
 ];
 
